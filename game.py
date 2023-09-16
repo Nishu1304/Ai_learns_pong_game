@@ -2,11 +2,7 @@ from rodes import Rodes
 from ball import Ball
 import pygame
 import random
-from  pygame import mixer
 
-"""mixer.music.load('Mario-theme-song.wav')
-mixer.music.play(-1)
-sound = mixer.Sound('Mario-jump-sound.wav')"""
 pygame.init()
 
 
