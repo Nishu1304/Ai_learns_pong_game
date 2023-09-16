@@ -1,7 +1,7 @@
 import pygame
 import math
 import random
-
+"""This program initiate the pong ball for the game"""
 
 class Ball:
     MAX_VEL = 5
